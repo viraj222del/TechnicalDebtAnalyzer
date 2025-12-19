@@ -120,7 +120,7 @@ Our tool leverages Google's Gemini AI to provide:
 3. Set up environment variables:
    ```bash
    cp .env.example .env
-   # Edit .env with your API keys
+   # Edit .env with your API keys 
    ```
 
 4. Run the application:
@@ -130,14 +130,16 @@ Our tool leverages Google's Gemini AI to provide:
 
 ## 👥 Contributors
 
-- [Viraj](https://github.com/v3ravani)
-- [Visha](https://github.com/vishayadav)
+- [Visha Yadav](https://github.com/vishayadav) 
+- [Viraj Ravani](https://github.com/v3ravani)
+- 
 
 
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
