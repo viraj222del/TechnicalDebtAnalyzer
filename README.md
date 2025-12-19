@@ -1,4 +1,4 @@
-# Code Quality & Security Analyzer
+# Technical Debt Analyzer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -138,6 +138,7 @@ Our tool leverages Google's Gemini AI to provide:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
