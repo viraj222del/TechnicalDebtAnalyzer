@@ -24,16 +24,16 @@ Technical Debt Analyzer is a developer-friendly tool that helps teams maintain h
 - [License](#-license)
 
 ## ❓ Problem: Hidden cost of VibeCoding
-- **Technical Debt Accumulation**: Difficulty in identifying and tracking technical debt across large codebases
-- **Code Quality Crash**: Prioritizing speed over structure leads to Technical Debt, creating code that is complex, hard to maintain, and extremely slow to update.
-- **Security Vulnerabilities**: Hard-to-spot security issues that could lead to breaches
-- **Scalability Blockers:** Code written without clear architecture often means the Minimum Viable Product (MVP) cannot handle growth, leading to performance failures when scaling.
+- **Technical Debt**: Hasty code makes the software fragile and expensive to fix, slowing down all future work.
+- **Security Risks:** Rushed coding creates serious flaws that leave the software vulnerable to attacks.
+- **Unable to Scale:** The weak foundation collapses under heavy user load, preventing real growth.
+- **Low Developer Productivity:** Messy code increases debugging time and reduces team efficiency.
 
 ## 💡 Our Solution - AI Powered Technical Debt Analyzer
 - **AI-Powered Code Analysis:** Uses AI to scan the entire repository and understand real code risks.
 - **Clear Risk Scores:** Provides simple technical debt and security risk scores for quick decisions.
 - **Actionable Insights:** Highlights the main risk factor per file to guide focused improvements.
-
+- **Scalability Readiness Check:** Identifies architectural and performance risks that can block future growth.
 ## ✨ Key Features
 
 ### Code Metrics
@@ -137,6 +137,7 @@ Our tool leverages Google's Gemini AI to provide:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
