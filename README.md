@@ -7,7 +7,7 @@ Team: BlackBox
 ## 📌 Live Demo
 
 🔗 [Live Demo](https://technicaldebtanalyzer.streamlit.app)  
-🎥 [Video Demo](https://youtube.com/your-demo-video)
+🎥 [Video Demo](https://youtu.be/j8wcMvob1IQ?si=2lwcagYU73zMSOt6)
 
 ## 🚀 Introduction
 Technical Debt Analyzer is a developer-friendly tool that helps teams maintain high code quality by providing comprehensive analysis and actionable insights. It combines static code analysis with AI-powered recommendations to help you write better, more secure code.
@@ -137,6 +137,7 @@ Our tool leverages Google's Gemini AI to provide:
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 
